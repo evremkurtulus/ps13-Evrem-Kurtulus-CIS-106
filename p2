@@ -1,0 +1,21 @@
+class Student:
+
+  def init(self, first, last, code):
+    self.first = first
+    self.last = last
+    self.code = credits
+ 
+
+  def tuition(self,rate):
+   if code == I:
+     tuition = 250.00 * credits
+   else:
+     tuition = 500.00 * credits
+  return tuition
+
+stu_1 = Student(('Allan', 'Blanco', 12))
+
+print(stu_1.first)
+print(stu_1.last)
+print(stu_1.code)
+print(stu_1.tuition)
